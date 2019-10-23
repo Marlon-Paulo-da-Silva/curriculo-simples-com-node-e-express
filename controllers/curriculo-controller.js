@@ -21,7 +21,7 @@ exports.getDescription = () => {
 }
 
 exports.getExperience = () => {
-    return CurriculoModel.education;
+    return CurriculoModel.experience;
 }
 
 exports.getEducation = () => {
